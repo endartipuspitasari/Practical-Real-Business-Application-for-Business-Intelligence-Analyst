@@ -1,7 +1,7 @@
 # Practical-Real-Business-Application-for-Business-Intelligence-Analyst
 Lab Session:
--Sales Spike Business Case Overview
--SKU Outlier Exploration
--Funnel Conversion Analysis
--Margin and Stock Risk
--Business Insight Visualization
+1-Sales Spike Business Case Overview
+2-SKU Outlier Exploration
+3-Funnel Conversion Analysis
+4-Margin and Stock Risk
+5-Business Insight Visualization
